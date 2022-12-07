@@ -11,3 +11,6 @@ init
 remote
 branch
 checkout
+merge
+diff
+pull
