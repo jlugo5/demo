@@ -39,6 +39,8 @@ This is to commit to the changes.
 Example:git commit -m "Hello"
 The m is for the message. Another m can be added for the description message.
 Example: git commit -m "Hello" -m "World"
+If file is modify you can add and commit at the same time.
+Example: git commit -am "Hello"
 
 ### push
  This is to push the files to the master repo.
